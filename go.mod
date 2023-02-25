@@ -14,6 +14,6 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.14.6
 	github.com/mwitkow/go-proto-validators v0.3.0
 	github.com/rakyll/statik v0.1.7
-	golang.org/x/sys v0.0.0-20190402142545-baf5eb976a8c // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	google.golang.org/grpc v1.29.1
 )
